@@ -6,7 +6,7 @@
 lol
 ## Team and roles
 
-| Member | Entry no. | GitHub handle | Role | Notebook sections |
+| Member | Entry no | Role |
 |---|---|---|
 | Member 1 (placeholder) | 2026AIB0001 | Documentation lead |
 | Member 2 (placeholder) | 2026AIB0002 | Execution lead |
