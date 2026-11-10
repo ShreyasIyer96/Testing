@@ -37,3 +37,11 @@ cd AI-Layoff-Risk-Predictor
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+## How to run
+
+1. From the repo folder, run `jupyter notebook`.
+2. Open `ai101_team28.ipynb`.
+3. Choose **Kernel → Restart & Run All**. It finishes in well under a minute and saves the plots and `metrics.json` in `outputs/` (and `training_curve_gd.png` in the repo folder).
+
+The data path is relative (`ai-impact-jobs-layoff-risk-dataset.csv`), so the notebook and the CSV must stay in the same folder.
