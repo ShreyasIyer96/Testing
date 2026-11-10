@@ -37,7 +37,7 @@ cd AI-Layoff-Risk-Predictor
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-
+```
 ## How to run
 
 1. From the repo folder, run `jupyter notebook`.
