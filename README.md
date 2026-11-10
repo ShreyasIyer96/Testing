@@ -45,3 +45,5 @@ pip install -r requirements.txt
 3. Choose **Kernel → Restart & Run All**. It finishes in well under a minute and saves the plots and `metrics.json` in `outputs/` (and `training_curve_gd.png` in the repo folder).
 
 The data path is relative (`ai-impact-jobs-layoff-risk-dataset.csv`), so the notebook and the CSV must stay in the same folder.
+
+<img width="890" height="340" alt="training_curve_gd" src="https://github.com/user-attachments/assets/7e241a9b-5f81-48ef-8625-a5ea1706b47b" />
