@@ -67,3 +67,10 @@ The data path is relative (`ai-impact-jobs-layoff-risk-dataset.csv`), so the not
 <img width="890" height="340" alt="training_curve_gd" src="https://github.com/user-attachments/assets/3e12f13a-47a8-4d8a-95d2-d0336c27c970" />
 <img width="851" height="390" alt="Confusion_Matrix" src="https://github.com/user-attachments/assets/23a5a4eb-f01b-46c4-888e-0bdb04db653f" />
 <img width="890" height="390" alt="ROC_curve" src="https://github.com/user-attachments/assets/5773a3f1-bd2b-46d9-a25a-77b82dec8189" />
+
+## AI-use disclosure
+
+
+- Claude: First draft of README, assisted with code for plotting curves & debugged an error in SGDCclassifier code
+- No AI was used to generate the dataset. All reported metrics come from running the notebook.
+
