@@ -56,4 +56,6 @@ The data path is relative (`ai-impact-jobs-layoff-risk-dataset.csv`), so the not
 | F1 (macro) | 0.940888 | 0.937535 |
 | ROC AUC (macro, one-vs-rest) | 0.994580 | 0.993885 |
 
-<img width="890" height="340" alt="training_curve_gd" src="https://github.com/user-attachments/assets/7e241a9b-5f81-48ef-8625-a5ea1706b47b" />
+<img width="890" height="340" alt="training_curve_gd" src="https://github.com/user-attachments/assets/3e12f13a-47a8-4d8a-95d2-d0336c27c970" />
+<img width="851" height="390" alt="Confusion_Matrix" src="https://github.com/user-attachments/assets/23a5a4eb-f01b-46c4-888e-0bdb04db653f" />
+<img width="890" height="390" alt="ROC_curve" src="https://github.com/user-attachments/assets/5773a3f1-bd2b-46d9-a25a-77b82dec8189" />
