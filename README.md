@@ -26,3 +26,14 @@ ai101-team-XX-ai-layoff-risk-predictor/
 ├── requirements.txt
 └── README.md
 ```
+
+## Setup
+
+Python 3.12 or newer. The notebook was last run on Python 3.14.6, and its code was re-checked on Python 3.12 with the versions in `requirements.txt` (same final metrics).
+
+```bash
+git clone https://github.com/Shreyas-IITRPR/AI-Layoff-Risk-Predictor.git
+cd AI-Layoff-Risk-Predictor
+python -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
+pip install -r requirements.txt
