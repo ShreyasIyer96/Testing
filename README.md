@@ -17,12 +17,12 @@ All four members write code and commit from their own accounts (see commit histo
 ## Project structure
 
 ```
-ai101-team-XX-ai-layoff-risk-predictor/
-├── AI_Layoff_Risk_LogReg.ipynb              # all code, with output cells
+AI-Layoff-Risk-Predictor/
+├── ai101_team28.ipynb              # all code, with output cells
 ├── ai-impact-jobs-layoff-risk-dataset.csv   # dataset (keep it next to the notebook)
 ├── training_curve_gd.png                    # training curve, saved by the notebook
 ├── outputs/                                 # plots and metrics.json saved by the notebook
-├── docs/Team_XX_slides.pdf                  # 5 slides
+├── docs/Team28_slides.pdf                  # 5 slides
 ├── requirements.txt
 └── README.md
 ```
