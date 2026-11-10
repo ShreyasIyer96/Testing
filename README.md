@@ -33,9 +33,17 @@ Python 3.12 or newer. The notebook was last run on Python 3.14.6, and its code w
 
 ```bash
 git clone https://github.com/Shreyas-IITRPR/AI-Layoff-Risk-Predictor.git
+```
+```bash
 cd AI-Layoff-Risk-Predictor
+```
+```bash
 python -m venv venv
+```
+```bash
 source venv/bin/activate        # Windows: venv\Scripts\activate
+```
+```bash
 pip install -r requirements.txt
 ```
 ## How to run
