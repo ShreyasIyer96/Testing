@@ -40,8 +40,13 @@ cd AI-Layoff-Risk-Predictor
 ```bash
 python -m venv venv
 ```
+ Linux / macOS
 ```bash
-source venv/bin/activate        # Windows: venv\Scripts\activate
+source venv/bin/activate 
+```
+Windows:
+```bash
+venv\Scripts\activate
 ```
 ```bash
 pip install -r requirements.txt
@@ -68,7 +73,7 @@ The data path is relative (`ai-impact-jobs-layoff-risk-dataset.csv`), so the not
 <img width="851" height="390" alt="Confusion_Matrix" src="https://github.com/user-attachments/assets/23a5a4eb-f01b-46c4-888e-0bdb04db653f" />
 <img width="890" height="390" alt="ROC_curve" src="https://github.com/user-attachments/assets/5773a3f1-bd2b-46d9-a25a-77b82dec8189" />
 
-## Linka
+## Links
 Slides:`https://drive.google.com/file/d/1vXiiMBQ3SsCNKfQXjiQKUsnSEoDO3oOH/view?usp=drivesdk`
 ## Note
 
