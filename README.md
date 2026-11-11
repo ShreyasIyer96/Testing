@@ -40,11 +40,11 @@ cd AI-Layoff-Risk-Predictor
 ```bash
 python -m venv venv
 ```
- Linux / macOS
+- Linux / macOS
 ```bash
 source venv/bin/activate 
 ```
-Windows:
+- Windows:
 ```bash
 venv\Scripts\activate
 ```
