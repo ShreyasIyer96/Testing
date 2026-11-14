@@ -84,7 +84,7 @@ One early commit, with commit message <made output folder with the metrices.json
 
 - Claude: First draft of README, assisted with code for plotting curves & debugged an error in SGDCclassifier code
 - No AI was used to generate the dataset. All reported metrics come from running the notebook.
-
+```
 AI-Layoff-Risk-Predictor/
 ├── ai101_team28.ipynb                       # all code, with output cells
 ├── ai-impact-jobs-layoff-risk-dataset.csv   # dataset (keep it next to the notebook)
