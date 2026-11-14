@@ -74,8 +74,8 @@ The data path is relative (`ai-impact-jobs-layoff-risk-dataset.csv`), so the not
 <img width="890" height="390" alt="ROC_curve" src="https://github.com/user-attachments/assets/5773a3f1-bd2b-46d9-a25a-77b82dec8189" />
 
 ## Links
-Slides:[Team28_slides](https://drive.google.com/file/d/1vXiiMBQ3SsCNKfQXjiQKUsnSEoDO3oOH/view?usp=drivesdk)
-Video: [Project Video](https://drive.google.com/file/d/1pzjD4EJI8dMH936MUILzIbMN4KOArENa/view?usp=sharing)
+- Slides:[Team28_slides](https://drive.google.com/file/d/1vXiiMBQ3SsCNKfQXjiQKUsnSEoDO3oOH/view?usp=drivesdk)
+- Video: [Project Video](https://drive.google.com/file/d/1pzjD4EJI8dMH936MUILzIbMN4KOArENa/view?usp=sharing)
 ## Note
 
 One early commit, with commit message <made output folder with the metrices.json file> in this repository was made by @ShreyasIyer96, a personal account belonging to @Shreyas-IITRPR (Shreyas Iyer), by mistake while logged in to the wrong account. Kindly ignore this commit. All other commits by this member are from @Shreyas-IITRPR.
